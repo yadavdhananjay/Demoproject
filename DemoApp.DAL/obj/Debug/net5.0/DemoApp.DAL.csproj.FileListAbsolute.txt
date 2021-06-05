@@ -1,0 +1,15 @@
+D:\TypeScript\Validation\DemoApp.DAL\bin\Debug\net5.0\DemoApp.DAL.deps.json
+D:\TypeScript\Validation\DemoApp.DAL\bin\Debug\net5.0\DemoApp.DAL.runtimeconfig.json
+D:\TypeScript\Validation\DemoApp.DAL\bin\Debug\net5.0\DemoApp.DAL.runtimeconfig.dev.json
+D:\TypeScript\Validation\DemoApp.DAL\bin\Debug\net5.0\DemoApp.DAL.dll
+D:\TypeScript\Validation\DemoApp.DAL\bin\Debug\net5.0\ref\DemoApp.DAL.dll
+D:\TypeScript\Validation\DemoApp.DAL\bin\Debug\net5.0\DemoApp.DAL.pdb
+D:\TypeScript\Validation\DemoApp.DAL\obj\Debug\net5.0\DemoApp.DAL.csprojAssemblyReference.cache
+D:\TypeScript\Validation\DemoApp.DAL\obj\Debug\net5.0\DemoApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\TypeScript\Validation\DemoApp.DAL\obj\Debug\net5.0\DemoApp.DAL.AssemblyInfoInputs.cache
+D:\TypeScript\Validation\DemoApp.DAL\obj\Debug\net5.0\DemoApp.DAL.AssemblyInfo.cs
+D:\TypeScript\Validation\DemoApp.DAL\obj\Debug\net5.0\DemoApp.DAL.csproj.CoreCompileInputs.cache
+D:\TypeScript\Validation\DemoApp.DAL\obj\Debug\net5.0\DemoApp.DAL.dll
+D:\TypeScript\Validation\DemoApp.DAL\obj\Debug\net5.0\ref\DemoApp.DAL.dll
+D:\TypeScript\Validation\DemoApp.DAL\obj\Debug\net5.0\DemoApp.DAL.pdb
+D:\TypeScript\Validation\DemoApp.DAL\obj\Debug\net5.0\DemoApp.DAL.genruntimeconfig.cache
